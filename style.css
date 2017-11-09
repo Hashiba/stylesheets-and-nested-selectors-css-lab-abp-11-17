@@ -16,6 +16,11 @@ header nav{
   float: right;
 }
 
+header h3{
+  float: left;
+  font-size: 30px;
+}
+
 nav ul{
 padding: 0px,0px,0px,0px;
 margin-top: 40px;
